@@ -3,7 +3,7 @@ Package.describe({
   name:"ramstein74:filepicker",
   summary: "upload file to FilePicker",
   version: "1.2.3",
-  git: ""
+  git: "https://github.com/ramstein74/Filepicker"
 });
 
 Package.on_use(function (api) {
